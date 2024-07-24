@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Manzana",
+    "description": "Manzana fresca y crujiente.",
+    "code": "FRU-001",
+    "price": 1.2,
+    "status": true,
+    "stock": 100,
+    "category": "Frutas"
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "description": "Banana madura y dulce.",
+    "code": "FRU-002",
+    "price": 0.9,
+    "status": true,
+    "stock": 150,
+    "category": "Frutas"
+  },
+  {
+    "id": 3,
+    "title": "Tomate",
+    "description": "Tomate rojo y jugoso.",
+    "code": "VEG-001",
+    "price": 1.5,
+    "status": true,
+    "stock": 80,
+    "category": "Verduras"
+  },
+  {
+    "id": 4,
+    "title": "Lechuga",
+    "description": "Lechuga fresca y crujiente.",
+    "code": "VEG-002",
+    "price": 1,
+    "status": true,
+    "stock": 60,
+    "category": "Verduras"
+  },
+  {
+    "id": 5,
+    "title": "Pan Integral",
+    "description": "Pan integral saludable.",
+    "code": "BAK-001",
+    "price": 2.5,
+    "status": true,
+    "stock": 45,
+    "category": "Panadería"
+  },
+  {
+    "id": 6,
+    "title": "Leche",
+    "description": "Leche fresca de vaca.",
+    "code": "DAI-001",
+    "price": 1.8,
+    "status": true,
+    "stock": 120,
+    "category": "Lácteos"
+  },
+  {
+    "id": 7,
+    "title": "Yogur Natural",
+    "description": "Yogur natural sin azúcar.",
+    "code": "DAI-002",
+    "price": 1.2,
+    "status": true,
+    "stock": 90,
+    "category": "Lácteos"
+  },
+  {
+    "id": 8,
+    "title": "Pollo",
+    "description": "Pollo fresco y sin hueso.",
+    "code": "MEAT-001",
+    "price": 7,
+    "status": true,
+    "stock": 50,
+    "category": "Carnes"
+  },
+  {
+    "id": 9,
+    "title": "Carne de Res",
+    "description": "Carne de res de primera calidad.",
+    "code": "MEAT-002",
+    "price": 10,
+    "status": true,
+    "stock": 30,
+    "category": "Carnes"
+  },
+  {
+    "id": 10,
+    "title": "Arroz",
+    "description": "Arroz blanco de grano largo.",
+    "code": "GRA-001",
+    "price": 2,
+    "status": true,
+    "stock": 70,
+    "category": "Granos"
+  },
+  {
+    "id": 11,
+    "title": "Pasta",
+    "description": "Pasta italiana de trigo.",
+    "code": "GRA-002",
+    "price": 1.8,
+    "status": true,
+    "stock": 80,
+    "category": "Granos"
+  },
+  {
+    "id": 12,
+    "title": "Aceite de Oliva",
+    "description": "Aceite de oliva extra virgen.",
+    "code": "CON-001",
+    "price": 3.5,
+    "status": true,
+    "stock": 40,
+    "category": "Condimentos"
+  },
+  {
+    "id": 13,
+    "title": "Sal",
+    "description": "Sal fina para cocina.",
+    "code": "CON-002",
+    "price": 0.8,
+    "status": true,
+    "stock": 100,
+    "category": "Condimentos"
+  },
+  {
+    "id": 14,
+    "title": "Cereal",
+    "description": "Cereal integral con frutas.",
+    "code": "BRO-001",
+    "price": 4,
+    "status": true,
+    "stock": 60,
+    "category": "Desayuno"
+  },
+  {
+    "id": 15,
+    "title": "Galletas",
+    "description": "Galletas de chocolate.",
+    "code": "BRO-002",
+    "price": 2.2,
+    "status": true,
+    "stock": 70,
+    "category": "Desayuno"
+  },
+  {
+    "id": 16,
+    "title": "Jugo de Naranja",
+    "description": "Jugo natural de naranja.",
+    "code": "BEB-001",
+    "price": 2,
+    "status": true,
+    "stock": 50,
+    "category": "Bebidas"
+  },
+  {
+    "id": 17,
+    "title": "Agua Mineral",
+    "description": "Agua mineral sin gas.",
+    "code": "BEB-002",
+    "price": 1,
+    "status": true,
+    "stock": 120,
+    "category": "Bebidas"
+  },
+  {
+    "id": 18,
+    "title": "Papel Higiénico",
+    "description": "Papel higiénico de 4 rollos.",
+    "code": "LIM-001",
+    "price": 3,
+    "status": true,
+    "stock": 80,
+    "category": "Limpieza"
+  },
+  {
+    "id": 19,
+    "title": "Detergente",
+    "description": "Detergente líquido para ropa.",
+    "code": "LIM-002",
+    "price": 2.5,
+    "status": true,
+    "stock": 70,
+    "category": "Limpieza"
+  },
+  {
+    "id": 20,
+    "title": "Champú",
+    "description": "Champú para cabello normal.",
+    "code": "HIG-001",
+    "price": 4,
+    "status": true,
+    "stock": 60,
+    "category": "Higiene"
+  },
+  {
+    "id": 21,
+    "title": "Jabón de Manos",
+    "description": "Jabón líquido para manos.",
+    "code": "HIG-002",
+    "price": 1.5,
+    "status": true,
+    "stock": 90,
+    "category": "Higiene"
+  },
+  {
+    "id": 22,
+    "title": "Café",
+    "description": "Café molido de alta calidad.",
+    "code": "BEV-001",
+    "price": 5,
+    "status": true,
+    "stock": 50,
+    "category": "Bebidas"
+  },
+  {
+    "id": 23,
+    "title": "Azúcar",
+    "description": "Azúcar blanca para cocina.",
+    "code": "CON-003",
+    "price": 1,
+    "status": true,
+    "stock": 90,
+    "category": "Condimentos"
+  },
+  {
+    "id": 24,
+    "title": "Manteca",
+    "description": "Manteca para cocinar.",
+    "code": "DAI-003",
+    "price": 2.2,
+    "status": true,
+    "stock": 40,
+    "category": "Lácteos"
+  },
+  {
+    "id": 25,
+    "title": "Gaseosa",
+    "description": "Gaseosa sabor cola.",
+    "code": "BEB-003",
+    "price": 1.5,
+    "status": true,
+    "stock": 80,
+    "category": "Bebidas"
+  },
+  {
+    "id": 26,
+    "title": "Cereal para Niños",
+    "description": "Cereal con dibujos para niños.",
+    "code": "BRO-003",
+    "price": 3.5,
+    "status": true,
+    "stock": 55,
+    "category": "Desayuno"
+  },
+  {
+    "id": 27,
+    "title": "Sopa Instantánea",
+    "description": "Sopa instantánea de pollo.",
+    "code": "GRA-003",
+    "price": 1.5,
+    "status": true,
+    "stock": 65,
+    "category": "Granos"
+  },
+  {
+    "id": 28,
+    "title": "Queso",
+    "description": "Queso semi curado.",
+    "code": "DAI-004",
+    "price": 5.5,
+    "status": true,
+    "stock": 30,
+    "category": "Lácteos"
+  },
+  {
+    "id": 29,
+    "title": "Miel",
+    "description": "Miel pura y natural.",
+    "code": "CON-004",
+    "price": 6,
+    "status": true,
+    "stock": 25,
+    "category": "Condimentos"
+  },
+  {
+    "id": 30,
+    "title": "Galletas Galácticas",
+    "description": "Galletas saladas para aperitivos.",
+    "code": "BRO-004",
+    "price": 2,
+    "status": true,
+    "stock": 85,
+    "category": "Desayuno"
+  }
+]
